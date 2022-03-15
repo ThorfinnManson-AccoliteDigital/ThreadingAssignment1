@@ -1,4 +1,5 @@
-package countTo100Synced;
+package SyncedCounting;
+
 
 public class Counter {
     private static int count = 0;

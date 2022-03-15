@@ -12,3 +12,9 @@ countTo100Synced/main.java
  countTo100Synced.main
 countTo100Synced/evenOddSync.java
  countTo100Synced.evenOddSync
+SyncedCounting/evenOddSync.java
+ SyncedCounting.evenOddSync
+SyncedCounting/main.java
+ SyncedCounting.main
+SyncedCounting/Counter.java
+ SyncedCounting.Counter
